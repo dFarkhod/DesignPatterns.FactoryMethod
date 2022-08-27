@@ -1,1 +1,1 @@
-# DesignPtterns.FactoryMethod
+# DesignPatterns.FactoryMethod
